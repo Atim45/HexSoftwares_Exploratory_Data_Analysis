@@ -35,3 +35,4 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+
